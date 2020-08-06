@@ -1,0 +1,9 @@
+data
+Untitled.ipynb
+.ipynb_checkpoints
+.DS_Store
+mecab-embedding.npy
+saved_model
+predictions
+info/
+__pycache__
